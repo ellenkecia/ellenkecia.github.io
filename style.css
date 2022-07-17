@@ -13,3 +13,12 @@ h4 {
 }
 
 body{ background-color: rgb(54, 2, 2);}
+
+img {
+    border-radius: 100%;
+}
+
+#nome-completo {
+    font-family: 'Cormorant SC', serif;
+    font-size: 24px;
+}
