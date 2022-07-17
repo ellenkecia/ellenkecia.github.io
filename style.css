@@ -1,24 +1,35 @@
-h1{ color: rgb(255, 255, 255);
+h1 {
+    color: rgb(220, 220, 220);
 }
 
-h2 {color: rgb(240, 240, 240);
+h2 {
+    color: rgb(220, 220, 220);
 }
 
-.texto-simples{
-    color: aliceblue;
+.texto-simples {
+    color: rgb(220, 220, 220);
 }
 
-h4 {
-    color: blue;
+body {
+    background-color: rgb(47, 79, 79);
 }
-
-body{ background-color: rgb(54, 2, 2);}
 
 img {
     border-radius: 100%;
 }
 
-#nome-completo {
-    font-family: 'Cormorant SC', serif;
+#tamanho-nome {
     font-size: 24px;
+}
+
+.fonte-alterada {
+    font-family: 'Cormorant SC', serif
+}
+
+#link-ref {
+    border: 60px;
+    background-image: borda-final.png;
+}
+a{
+    color: rgb(220, 220, 220);
 }
