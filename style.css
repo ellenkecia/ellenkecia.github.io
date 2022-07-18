@@ -1,17 +1,6 @@
-h1 {
-    color: rgb(220, 220, 220);
-}
-
-h2 {
-    color: rgb(220, 220, 220);
-}
-
-.texto-simples {
-    color: rgb(220, 220, 220);
-}
-
 body {
     background-color: rgb(47, 79, 79);
+    color:rgb(220, 220, 220);
 }
 
 img {
@@ -24,11 +13,6 @@ img {
 
 .fonte-alterada {
     font-family: 'Cormorant SC', serif
-}
-
-#link-ref {
-    border: 60px;
-    background-image: borda-final.png;
 }
 a{
     color: rgb(220, 220, 220);
